@@ -1,0 +1,818 @@
+[
+	{
+		"id": 1,
+		"name": "Karthik",
+		"imageUrl": "https://image.ibb.co/k0wVTm/profile_pic.jpg",
+		"latestMessageTimestamp": 1632205237669,
+		"messageList": [
+			{
+				"messageId": "msg1",
+				"message": "Hi, How are you?",
+				"timestamp": 1632205137669,
+				"sender": "Karthik",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg2",
+				"message": "I am good!",
+				"timestamp": 1632205237669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1629799937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg7",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1629899937669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg8",
+				"message": "When can I meet you?",
+				"timestamp": 1629999937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg9",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630000037669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg10",
+				"message": "Need help with this order",
+				"timestamp": 1630001037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg5",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630002037669,
+				"sender": "BOT"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1630003037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg11",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630004037669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg12",
+				"message": "Need help with this order",
+				"timestamp": 1630004137669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg13",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630005137669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg14",
+				"message": "Need help with this order",
+				"timestamp": 1630005237670,
+				"sender": "USER",
+				"messageType": "text"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Alex",
+		"imageUrl": "https://image.ibb.co/cA2oOb/alex_1.jpg",
+
+		"latestMessageTimestamp": 1632105237669,
+		"messageList": []
+	},
+	{
+		"id": 3,
+		"name": "Bob",
+		"imageUrl": "https://image.ibb.co/gSyTOb/bob_1.jpg",
+		"latestMessageTimestamp": 1631105237669,
+		"messageList": [
+			{
+				"messageId": "msg1",
+				"message": "Hi, How are you?",
+				"timestamp": 1632205137669,
+				"sender": "Karthik",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg2",
+				"message": "I am good!",
+				"timestamp": 1632205237669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1629799937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg7",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1629899937669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg8",
+				"message": "When can I meet you?",
+				"timestamp": 1629999937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg9",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630000037669,
+				"sender": "BOB",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg10",
+				"message": "Need help with this order",
+				"timestamp": 1630001037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg5",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630002037669,
+				"sender": "BOB"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1630003037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg11",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630004037669,
+				"sender": "BOB",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg12",
+				"message": "Need help with this order",
+				"timestamp": 1630004137669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg13",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630005137669,
+				"sender": "BOB",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg14",
+				"message": "Need help with this order",
+				"timestamp": 1630005237669,
+				"sender": "USER",
+				"messageType": "text"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"latestMessageTimestamp": 1630005237669,
+		"name": "Luke",
+		"imageUrl": "https://image.ibb.co/jOzeUG/luke_1.jpg",
+		"messageList": [
+			{
+				"messageId": "msg1",
+				"message": "Hi, How are you?",
+				"timestamp": 1632205137669,
+				"sender": "Karthik",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg2",
+				"message": "I am good!",
+				"timestamp": 1632205237669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1629799937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg7",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1629899937669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg8",
+				"message": "When can I meet you?",
+				"timestamp": 1629999937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg9",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630000037669,
+				"sender": "Luke",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg10",
+				"message": "Need help with this order",
+				"timestamp": 1630001037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg5",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630002037669,
+				"sender": "Luke"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1630003037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg11",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630004037669,
+				"sender": "Luke",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg12",
+				"message": "Need help with this order",
+				"timestamp": 1630004137669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg13",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630005137669,
+				"sender": "Luke",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg14",
+				"message": "Need help with this order",
+				"timestamp": 1630005237669,
+				"sender": "USER",
+				"messageType": "text"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"latestMessageTimestamp": 1620005237669,
+		"name": "Bane",
+		"imageUrl": "https://image.ibb.co/cBZPww/bane_1.jpg",
+		"messageList": [
+			{
+				"messageId": "msg1",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1620001237669,
+				"sender": "Bane"
+			},
+			{
+				"messageId": "msg2",
+				"message": "Need help with this order",
+				"timestamp": 1620005237669,
+				"sender": "USER"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Darth Vader",
+		"imageUrl": "https://image.ibb.co/j4Ov3b/darth_vader_1.png",
+		"latestMessageTimestamp": 1598517840547,
+		"messageList": [
+			{
+				"messageId": "msg1",
+				"message": "Hi, How are you?",
+				"timestamp": 1632205137669,
+				"sender": "Karthik",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg2",
+				"message": "I am good!",
+				"timestamp": 1632205237669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1629799937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg7",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1629899937669,
+				"sender": "Darth Vader",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg8",
+				"message": "When can I meet you?",
+				"timestamp": 1629999937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg9",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630000037669,
+				"sender": "Darth Vader",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg10",
+				"message": "Need help with this order",
+				"timestamp": 1630001037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg5",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630002037669,
+				"sender": "Darth Vader"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1630003037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg11",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630004037669,
+				"sender": "Darth Vader",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg12",
+				"message": "Need help with this order",
+				"timestamp": 1630004137669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg13",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630005137669,
+				"sender": "Darth Vader",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg14",
+				"message": "Need help with this order",
+				"timestamp": 1630005237669,
+				"sender": "USER",
+				"messageType": "text"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Zach",
+		"imageUrl": "https://image.ibb.co/b4kxGw/zach_1.jpg",
+		"latestMessageTimestamp": 1598517840547,
+		"messageList": [
+			{
+				"messageId": "msg1",
+				"message": "Hi, How are you?",
+				"timestamp": 1632205137669,
+				"sender": "Zach",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg2",
+				"message": "I am good!",
+				"timestamp": 1632205237669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1629799937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg7",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1629899937669,
+				"sender": "Zach",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg8",
+				"message": "When can I meet you?",
+				"timestamp": 1629999937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg9",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630000037669,
+				"sender": "Darth Vader",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg10",
+				"message": "Need help with this order",
+				"timestamp": 1630001037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg5",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630002037669,
+				"sender": "BOT"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1630003037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg11",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630004037669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg12",
+				"message": "Need help with this order",
+				"timestamp": 1630004137669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg13",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630005137669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg14",
+				"message": "Need help with this order",
+				"timestamp": 1630005237669,
+				"sender": "USER",
+				"messageType": "text"
+			}
+		]
+	},
+	{
+		"id": 8,
+
+		"name": "Katie",
+		"imageUrl": "https://image.ibb.co/eLVWbw/katie_1.jpg",
+
+		"latestMessageTimestamp": 1590576854189,
+		"messageList": [
+			{
+				"messageId": "msg1",
+				"message": "Hi, How are you?",
+				"timestamp": 1632205137669,
+				"sender": "Karthik",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg2",
+				"message": "I am good!",
+				"timestamp": 1632205237669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1629799937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg7",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1629899937669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg8",
+				"message": "When can I meet you?",
+				"timestamp": 1629999937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg9",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630000037669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg10",
+				"message": "Need help with this order",
+				"timestamp": 1630001037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg5",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630002037669,
+				"sender": "BOT"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1630003037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg11",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630004037669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg12",
+				"message": "Need help with this order",
+				"timestamp": 1630004137669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg13",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630005137669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg14",
+				"message": "Need help with this order",
+				"timestamp": 1630005237669,
+				"sender": "USER",
+				"messageType": "text"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Dave",
+
+		"imageUrl": "https://image.ibb.co/ncAa3b/chloe_1.jpg",
+		"latest_timestamp": "Wednesday",
+		"latestMessageTimestamp": 1589519579618,
+		"messageList": [
+			{
+				"messageId": "msg1",
+				"message": "Hi, How are you?",
+				"timestamp": 1632205137669,
+				"sender": "Karthik",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg2",
+				"message": "I am good!",
+				"timestamp": 1632205237669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1629799937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg7",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1629899937669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg8",
+				"message": "When can I meet you?",
+				"timestamp": 1629999937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg9",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630000037669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg10",
+				"message": "Need help with this order",
+				"timestamp": 1630001037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg5",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630002037669,
+				"sender": "BOT"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1630003037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg11",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630004037669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg12",
+				"message": "Need help with this order",
+				"timestamp": 1630004137669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg13",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630005137669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg14",
+				"message": "Need help with this order",
+				"timestamp": 1630005237669,
+				"sender": "USER",
+				"messageType": "text"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Zoey",
+		"imageUrl": "https://image.ibb.co/nd0Wbw/zoey_1.jpg",
+		"latestMessageTimestamp": 1589468548314,
+		"messageList": [
+			{
+				"messageId": "msg1",
+				"message": "Hi, How are you?",
+				"timestamp": 1632205137669,
+				"sender": "Karthik",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg2",
+				"message": "I am good!",
+				"timestamp": 1632205237669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1629799937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg7",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1629899937669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg8",
+				"message": "When can I meet you?",
+				"timestamp": 1629999937669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg9",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630000037669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg10",
+				"message": "Need help with this order",
+				"timestamp": 1630001037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg5",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630002037669,
+				"sender": "BOT"
+			},
+			{
+				"messageId": "msg6",
+				"message": "I want a callback",
+				"timestamp": 1630003037669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg11",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630004037669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg12",
+				"message": "Need help with this order",
+				"timestamp": 1630004137669,
+				"sender": "USER",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg13",
+				"message": "Hi, what can I help you with?",
+				"timestamp": 1630005137669,
+				"sender": "BOT",
+				"messageType": "text"
+			},
+			{
+				"messageId": "msg14",
+				"message": "Need help with this order",
+				"timestamp": 1630005237669,
+				"sender": "USER",
+				"messageType": "text"
+			}
+		]
+	}
+]
